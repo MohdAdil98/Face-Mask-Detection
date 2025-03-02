@@ -16,8 +16,13 @@ WHY
 HOW
 1-Backend     
           Connection with IP Camera : OpenCV
+         
           Face Detection            : OpenCV
+          
           Mask Detection            : Keras,Numpy
+          
           Save Data                 : OpenCV
+
 2-Frontend   
+         
           Web Application                       : Streamlit
