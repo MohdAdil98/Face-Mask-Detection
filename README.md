@@ -1,5 +1,6 @@
 # Face-Mask-Detection
 WHAT
+
 1-It is a computer vision application which can detect whether a person is wearing a mask or not and then store their data who are not wearing the mask.
 
 2-This application can get data from various sources such as
